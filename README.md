@@ -2,7 +2,7 @@
 Desenvolvimento Web com Spring-Boot, MVC, JPA e Thymeleaf.
 
 # Instruções para execução
-Crie um banco de dados mysql com o nome de dbcadasro
+Crie um banco de dados mysql com o nome de dbcadastro
 
 Rotas: <br>
 localhost:8080 <br>
