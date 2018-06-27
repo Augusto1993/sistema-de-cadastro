@@ -5,12 +5,12 @@ Desenvolvimento Web com Spring-Boot, MVC, JPA e Thymeleaf.
 Crie um banco de dados mysql com o nome de dbcadasro
 
 Rotas: <br>
-localhost:8080
-localhost:8080/departamentos/cadastrar
-localhost:8080/departamentos/listar
-
-localhost:8080/cargos/cadastrar
-localhost:8080/cargos/listar
-
-localhost:8080/funcionarios/cadastrar
-localhost:8080/funcionarios/listar
+localhost:8080 <br>
+localhost:8080/departamentos/cadastrar <br>
+localhost:8080/departamentos/listar <br>
+<br>
+localhost:8080/cargos/cadastrar <br>
+localhost:8080/cargos/listar <br>
+<br>
+localhost:8080/funcionarios/cadastrar <br>
+localhost:8080/funcionarios/listar <br>
